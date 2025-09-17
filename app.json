@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "LadderStrategy",
+    "slug": "ladder-strategy-app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "extra": {
+      "SMARTAPI_BASE": "https://apiconnect.angelbroking.com"
+    }
+  }
+}
